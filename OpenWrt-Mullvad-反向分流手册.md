@@ -385,7 +385,7 @@ dnsmasq --test; sh -x 脚本 2>&1 | tail -20
 
 ---
 
-## 11. 完整避坑清单
+## 11. 避坑清单
 
 ### 11.1 `uci set` 改 server → 全部 REFUSED
 
